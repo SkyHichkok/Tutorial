@@ -1,2 +1,2 @@
-первая строка
-вторая строка
+First string
+Second string
