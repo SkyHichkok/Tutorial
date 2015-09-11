@@ -1,5 +1,0 @@
-G:\Vadym\Программирование\Projects on C#\MVCMovie\MVCMovie\bin\MVCMovie.dll
-G:\Vadym\Программирование\Projects on C#\MVCMovie\MVCMovie\bin\MVCMovie.pdb
-G:\Vadym\Программирование\Projects on C#\MVCMovie\MVCMovie\obj\Debug\ResolveAssemblyReference.cache
-G:\Vadym\Программирование\Projects on C#\MVCMovie\MVCMovie\obj\Debug\MVCMovie.dll
-G:\Vadym\Программирование\Projects on C#\MVCMovie\MVCMovie\obj\Debug\MVCMovie.pdb
